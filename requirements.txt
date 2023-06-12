@@ -4,3 +4,4 @@ streamlit
 scikit-learn
 pip==23.1.2
 numpy==1.24.2
+streamlit_option_menu
